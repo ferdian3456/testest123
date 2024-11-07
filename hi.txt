@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-hi ini commit 2
-=======
 hi ini commit 4
->>>>>>> Stashed changes
