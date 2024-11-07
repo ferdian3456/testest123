@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-hi ini commit 10
-=======
-hi ini commit 4
->>>>>>> Stashed changes
+hi ini dari commit ke 3 yang diedit 
